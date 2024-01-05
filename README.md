@@ -1,5 +1,5 @@
 # Gappa.io- Chat Application 
-Gappa.io is chat application build with the power of MERN Stack. I built this app following the tutorial on Youtube. You can find the tutorial [here](https://www.youtube.com/watch?v=otaQKODEUFs)
+Gappa.io is chat application build with the power of MERN Stack. 
 
 
 ![login page](./images/snappy_login.png)
